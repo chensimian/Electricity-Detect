@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "漏电检测系统", "漏电检测系统\漏电检测系统.csproj", "{CE6A667D-B31D-4CD6-8B76-8FA314FA021C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE6A667D-B31D-4CD6-8B76-8FA314FA021C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6A667D-B31D-4CD6-8B76-8FA314FA021C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6A667D-B31D-4CD6-8B76-8FA314FA021C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6A667D-B31D-4CD6-8B76-8FA314FA021C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEA26646-6594-4943-9A5A-6BF68A050722}
+	EndGlobalSection
+EndGlobal
